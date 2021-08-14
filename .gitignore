@@ -5,4 +5,4 @@ gradle
 gradlew
 gradlew.bat
 settings.gradle
-task/test
+/Coffee Machine/task/test
